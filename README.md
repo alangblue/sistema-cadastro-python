@@ -18,3 +18,7 @@ Projeto desenvolvido em Python para praticar lógica de programação, funções
 ## Objetivo
 
 Este projeto foi criado como parte dos meus estudos em Python, com foco em praticar estruturas básicas da linguagem e organização de código.
+
+## 📷 Screenshots
+
+![Código](carbon.png)
