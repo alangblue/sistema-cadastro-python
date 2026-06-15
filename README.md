@@ -2,7 +2,7 @@
 
 Projeto desenvolvido em Python para praticar lógica de programação, funções, listas, dicionários e manipulação de dados em memória.
 
-## Funcionalidades
+## ​​📋Funcionalidades
 
 - Cadastrar usuário
 - Listar usuários cadastrados
@@ -11,14 +11,16 @@ Projeto desenvolvido em Python para praticar lógica de programação, funções
 - Validação de idade
 - Menu interativo no terminal
 
-## Tecnologias utilizadas
+## ​📊​Tecnologias utilizadas
 
-- Python
+- Python 3.14.2
 
-## Objetivo
+## 🎯​Objetivo
 
 Este projeto foi criado como parte dos meus estudos em Python, com foco em praticar estruturas básicas da linguagem e organização de código.
 
-## 📷 Screenshots
+## 📷Screenshots
 
 ![Código](carbon.png)
+
+![Terminal](terminal.png)
